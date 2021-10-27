@@ -1,10 +1,10 @@
-#About Project language and tools
+About Project language and tools
 
 	Tools : 
 		*notepad++ 
 		*xampp localhost
 		
-  Languages :
+        Languages :
 		 --frontend--
 				*HTML
 				*CSS
