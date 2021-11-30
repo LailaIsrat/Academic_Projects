@@ -1,16 +1,16 @@
 
-Tools : 
+  Tools : 
 
-   *notepad++ 
-   *xampp localhost
+     *notepad++ 
+      *xampp localhost
    
 Languages :
 
       #frontend :
-					* BOOTSTRAP template 
-					* javascript
+		* BOOTSTRAP template 
+		* javascript
       #Backend :
-					*PHP
+	      *PHP
 	
-			#Database :
-    			 * SQL Query
+      #Database :
+    	      * SQL Query
