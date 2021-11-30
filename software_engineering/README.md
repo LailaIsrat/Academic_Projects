@@ -12,4 +12,7 @@
 		*CSS
 	      #Backend :
 		*PHP
+		
+	#Database :
+	     * SQL Query
 
