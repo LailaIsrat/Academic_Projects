@@ -7,10 +7,10 @@ Tools :
 Languages :
 
       #frontend :
-	* BOOTSTRAP template 
-	* javascript
+					* BOOTSTRAP template 
+					* javascript
       #Backend :
-	*PHP
+					*PHP
 	
-#Database :
-     * SQL Query
+			#Database :
+    			 * SQL Query
